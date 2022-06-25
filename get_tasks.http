@@ -1,14 +1,9 @@
 POST http://localhost:3000/createTask
 content-type: application/json
-{
+
 {
   ID: 4,
   Name: "tarea 4",
   Content: "contenido  de la tarea 4",
-},
-{
-  ID: 5,
-  Name: "tarea5",
-  Content: "contenido5",
-  },
 }
+
